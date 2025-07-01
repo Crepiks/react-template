@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "antd": "^5.24.3",
-    "axios": "^1.8.2",
+    "axios": "^1.10.0",
     "classnames": "^2.5.1",
     "mobx": "^6.13.6",
     "mobx-react-lite": "^4.0.7",
